@@ -1,0 +1,13 @@
+- name: "Hors Pau"
+  period: 2018-01
+  input_variables:
+    depcom: '75019'
+  output_variables:
+    residence_pau: false
+
+- name: "Dans Pau"
+  period: 2018-01
+  input_variables:
+    depcom: '64445'
+  output_variables:
+    residence_pau: true
